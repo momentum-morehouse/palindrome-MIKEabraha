@@ -9,7 +9,7 @@ def get_test_username():
     if name == name[::-1]:
       print(name, 'is a palindrone.')
     else:
-      print(name,'is not a palindrone.')
+      print(name,'is not a palindrone 199.')
 
 #q2
 def get_test_num():
